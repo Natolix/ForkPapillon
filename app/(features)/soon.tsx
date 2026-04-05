@@ -23,17 +23,17 @@ export default function Soon() {
           <Papicons name="clock" color="#29947A" />
         </Icon>
         <Typography variant="h2" align="center">
-          Promis, ça arrive (vraiment) bientôt !
+          Onglet en développement
         </Typography>
         <Typography variant="body1" color="secondary" align="center">
-          L'onglet est toujours en cours de développement. Il arrivera prochainement dans une version future de Papillon.
+          L'onglet est toujours en cours de développement. Il arrivera prochainement dans une prochaine version de Papillon.
         </Typography>
         <Typography variant="body1" color="primary" align="center" onPress={() => {
           Linking.openURL("https://www.instagram.com/thepapillonapp/");
         }} style={{
           textDecorationLine: "underline",
         }}>
-          Et pour rester au courant, tu peux nous suivre sur les réseaux sociaux !
+          Pour rester à l'affût, tu peux nous suivre sur les réseaux !
         </Typography>
       </Stack>
     </View>
