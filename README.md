@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  L'application libre et open source <b>ultime</b> pour gérer toute ta vie scolaire sans compromis.
+  L'application open source <b>ultime</b> pour profiter d'un meilleur ENT.
 </p>
 
 <p align="center">
