@@ -34,7 +34,7 @@ export class ErrorBoundary extends React.Component<Props, State> {
 
       return (
         <View style={styles.container}>
-          <Typography variant='title'>Quelque chose s'est mal passé.</Typography>
+          <Typography variant='title'>Une erreur est survenue</Typography>
           <Typography variant='body1' style={{ opacity: 0.5 }}>Veuillez réessayer plus tard.</Typography>
         </View>
       );
